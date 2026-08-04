@@ -6,7 +6,7 @@
   ],
   "scripts": {
     "dev": "npm --prefix my-app run dev",
-    "build": "next build",
+    "build": "npm --prefix my-app run build",
     "start": "npm --prefix my-app run start",
     "lint": "npm --prefix my-app run lint"
   },
