@@ -54,7 +54,7 @@ export default function Hero() {
         </div>
       </div>
       <div className="relative border-t border-border">
-        <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-x-10 gap-y-4 px-8 py-8 text-xl cursor-pointer text-text-muted md:justify-between">
+        <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-x-10 gap-y-4 px-8 py-8 text-xl text-text-muted md:justify-between">
           {skills.map((s) => (
             <span key={s} className="transition-colors hover:text-text">
               {s}

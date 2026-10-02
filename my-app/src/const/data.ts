@@ -5,6 +5,7 @@
 
 export const profile = {
   name: "Aydan Abbaszadə",
+  firstName: "Aydan",
   role: "Software Developer",
   status: "Open for new projects",
   location: "Bakı, Azərbaycan",
