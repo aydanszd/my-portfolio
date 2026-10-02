@@ -5,7 +5,6 @@
 
 export const profile = {
   name: "Aydan Abbaszadə",
-  firstName: "Aydan",
   role: "Software Developer",
   status: "Open for new projects",
   location: "Bakı, Azərbaycan",
@@ -23,7 +22,6 @@ export const profile = {
 export const stats = [
   { value: "15", suffix: "+", label: "Completed projects" },
   { value: "9", suffix: "", label: "Technologies learned" },
-  { value: "2", suffix: "+", label: "Years of experience" },
 ];
 
 export type Service = {

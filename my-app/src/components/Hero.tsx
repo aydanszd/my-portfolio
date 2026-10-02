@@ -51,10 +51,6 @@ export default function Hero() {
               className="h-full w-full rounded-full object-cover"
             />
           </div>
-          <div className="absolute top-2 right-2 rounded-xl border border-border bg-surface px-4 py-2 text-xs shadow-lg">
-            <span className="font-semibold text-text">2+</span>{" "}
-            <span className="text-text-muted">years exp.</span>
-          </div>
         </div>
       </div>
       <div className="relative border-t border-border">
